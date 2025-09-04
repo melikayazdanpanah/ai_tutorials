@@ -1,3 +1,19 @@
+
+## ai_journey
+pre learn for ai 
+
+## datacamp_dataseries
+learning time series analysis with machine learning with python of datacamp 
+
+image_processing_projects_datacamp
+learning image processing with python - datacamp
+
+## jumpdeep
+full roadmap for deeplearning
+
+## pytopia-python
+learning python roadmap - not compelete yet
+
 ### university projects:
 ## course_managment
 University Management System This is a basic University Management System implemented using Flask and MySQL. The system allows users to register, log in, enroll in courses, and view grades. MySQL is used to store user accounts, courses, sections, enrollment information, and grades.
